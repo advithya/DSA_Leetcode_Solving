@@ -75,3 +75,19 @@ Let’s connect, share, and grow together 💪
 <p align="center">
   🚀 <em>Happy Coding & Keep Crushing Problems!</em> 💻
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0002-add-two-numbers) |
+## Math
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0002-add-two-numbers) |
+<!---LeetCode Topics End-->
