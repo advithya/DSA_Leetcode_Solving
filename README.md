@@ -109,6 +109,7 @@ Let’s connect, share, and grow together 💪
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -121,6 +122,7 @@ Let’s connect, share, and grow together 💪
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 ## Greedy
 |  |
 | ------- |
