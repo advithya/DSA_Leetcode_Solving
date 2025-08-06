@@ -14,15 +14,15 @@
 
 ## 🚧 What is this?
 
-> 👋 Hey there! I’m **Advithiya**, and this repo is my **daily DSA problem-solving dojo**.  
-> I solve Java LeetCode questions and share clean, readable solutions, organized by topic.
+> 👋 Hey there! I’m **Advithiya**, a Java Full Stack Developer (Fresher) and current intern at **Palle Technologies**.  
+> This repository is my **daily DSA problem-solving journal** — focusing on **Java** and **SQL**, solving challenges from LeetCode and beyond.
 
 If you're someone who:
-- 💻 Loves Java
-- 💡 Wants to level up in DSA
-- 🧠 Believes in solving one problem every day
+- 💻 Loves coding in **Java**
+- 💡 Wants to master DSA & core problem-solving
+- 📈 Believes in daily consistency
 
-Then guess what? **You’ll feel right at home here** 🏡
+Then guess what? **You’re in the right place** 🎯
 
 ---
 
@@ -35,9 +35,14 @@ Then guess what? **You’ll feel right at home here** 🏡
 
 ---
 
-## 🏆 My LeetCode Progress
+## 🏆 My Progress & Certifications
 
+### 🔹 LeetCode Progress  
 [![LeetCode Stats](https://leetcard.jacoblin.cool/Advithiya_V?theme=dark&font=Baloo&extension=activity)](https://leetcode.com/u/Advithiya_V)
+
+### 🔹 HackerRank Highlights  
+[![HackerRank: Java](https://img.shields.io/badge/HackerRank-Java-green?logo=hackerrank)](https://www.hackerrank.com/profile/advithyav03)  
+[![HackerRank: SQL](https://img.shields.io/badge/HackerRank-SQL-green?logo=hackerrank)](https://www.hackerrank.com/profile/advithyav03)
 
 ---
 
@@ -45,6 +50,8 @@ Then guess what? **You’ll feel right at home here** 🏡
 
 - 🧠 [LeetCode Profile](https://leetcode.com/u/Advithiya_V/)
 - 💼 [LinkedIn](https://www.linkedin.com/in/advithiya-v-693827278/)
+- 🛠️ [GitHub](https://github.com/advithya)
+- 🧪 [HackerRank Profile](https://www.hackerrank.com/profile/advithyav03)
 - 📧 [Email](mailto:advithyav03@gmail.com)
 
 ---
@@ -61,7 +68,7 @@ Then guess what? **You’ll feel right at home here** 🏡
 ## 🌟 Let’s Be Real
 
 > I'm not solving to show off.  
-> I'm solving to get better — and you're welcome to join the grind 🛠️
+> I'm solving to get better — and you're welcome to **join the grind** 🛠️
 
 If you're reading this, you’re already **investing in yourself**.  
 Let’s connect, share, and grow together 💪
@@ -75,6 +82,8 @@ Let’s connect, share, and grow together 💪
 <p align="center">
   🚀 <em>Happy Coding & Keep Crushing Problems!</em> 💻
 </p>
+
+---
 
 <!---LeetCode Topics Start-->
 # LeetCode Topics
