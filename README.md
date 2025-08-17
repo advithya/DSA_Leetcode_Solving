@@ -104,6 +104,7 @@ Let’s connect, share, and grow together 💪
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 ## String
 |  |
@@ -118,6 +119,7 @@ Let’s connect, share, and grow together 💪
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
