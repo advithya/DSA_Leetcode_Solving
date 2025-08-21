@@ -97,6 +97,7 @@ Let’s connect, share, and grow together 💪
 | [0002-add-two-numbers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0009-palindrome-number) |
+| [0029-divide-two-integers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0029-divide-two-integers) |
 ## Recursion
 |  |
 | ------- |
@@ -163,4 +164,8 @@ Let’s connect, share, and grow together 💪
 | ------- |
 | [0015-3sum](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0015-3sum) |
 | [0217-contains-duplicate](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0217-contains-duplicate) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0029-divide-two-integers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0029-divide-two-integers) |
 <!---LeetCode Topics End-->
