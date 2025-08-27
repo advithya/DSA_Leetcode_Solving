@@ -98,6 +98,7 @@ Let’s connect, share, and grow together 💪
 | [0007-reverse-integer](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0029-divide-two-integers) |
+| [0066-plus-one](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0066-plus-one) |
 ## Recursion
 |  |
 | ------- |
@@ -129,6 +130,7 @@ Let’s connect, share, and grow together 💪
 | [0026-remove-duplicates-from-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0066-plus-one) |
 | [0217-contains-duplicate](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0217-contains-duplicate) |
 ## Binary Search
 |  |
