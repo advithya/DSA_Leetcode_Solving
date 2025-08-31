@@ -91,6 +91,7 @@ Let’s connect, share, and grow together 💪
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0021-merge-two-sorted-lists) |
 ## Math
 |  |
 | ------- |
@@ -103,6 +104,7 @@ Let’s connect, share, and grow together 💪
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0002-add-two-numbers) |
+| [0021-merge-two-sorted-lists](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0021-merge-two-sorted-lists) |
 ## Hash Table
 |  |
 | ------- |
