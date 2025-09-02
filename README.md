@@ -100,6 +100,7 @@ Let’s connect, share, and grow together 💪
 | [0009-palindrome-number](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0029-divide-two-integers) |
 | [0066-plus-one](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0067-add-binary) |
 ## Recursion
 |  |
 | ------- |
@@ -119,6 +120,7 @@ Let’s connect, share, and grow together 💪
 | [0008-string-to-integer-atoi](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0008-string-to-integer-atoi) |
 | [0020-valid-parentheses](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0067-add-binary) |
 ## Sliding Window
 |  |
 | ------- |
@@ -176,4 +178,9 @@ Let’s connect, share, and grow together 💪
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0067-add-binary) |
+## Simulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
