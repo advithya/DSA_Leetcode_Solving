@@ -99,6 +99,7 @@ Let’s connect, share, and grow together 💪
 | [0007-reverse-integer](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0009-palindrome-number) |
 | [0029-divide-two-integers](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0029-divide-two-integers) |
+| [0048-rotate-image](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0067-add-binary) |
 ## Recursion
@@ -135,6 +136,7 @@ Let’s connect, share, and grow together 💪
 | [0026-remove-duplicates-from-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0217-contains-duplicate) |
@@ -183,4 +185,8 @@ Let’s connect, share, and grow together 💪
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0067-add-binary) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
