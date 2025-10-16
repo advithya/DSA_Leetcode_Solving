@@ -60,7 +60,7 @@ Then guess what? **You’re in the right place** 🎯
   <summary>📄 Want to peek at my resume?</summary>
 
   You can view/download it here 👉  
-  🎓 [My Resume (Google Drive)]([https://drive.google.com/file/d/1MYLf_860QTKSXy-zOQmzpak0UJw5JG6a/view?usp=drive_link](https://drive.google.com/file/d/13lLKmMThfRwc1ZoOLN_TCjNPk_ZuxPXc/view?usp=sharing))
+  🎓 [My Resume (Google Drive)](https://drive.google.com/file/d/13lLKmMThfRwc1ZoOLN_TCjNPk_ZuxPXc/view?usp=sharing)
 </details>
 
 ---
