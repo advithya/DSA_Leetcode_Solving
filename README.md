@@ -140,6 +140,7 @@ Let’s connect, share, and grow together 💪
 | [0066-plus-one](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0066-plus-one) |
 | [0088-merge-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0283-move-zeroes) |
 ## Binary Search
 |  |
 | ------- |
@@ -158,6 +159,7 @@ Let’s connect, share, and grow together 💪
 | [0026-remove-duplicates-from-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0088-merge-sorted-array) |
+| [0283-move-zeroes](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
