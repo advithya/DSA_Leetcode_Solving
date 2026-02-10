@@ -145,6 +145,7 @@ Let’s connect, share, and grow together 💪
 | [0283-move-zeroes](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1672-richest-customer-wealth) |
+| [1929-concatenation-of-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1929-concatenation-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -192,6 +193,7 @@ Let’s connect, share, and grow together 💪
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0067-add-binary) |
+| [1929-concatenation-of-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1929-concatenation-of-array) |
 ## Matrix
 |  |
 | ------- |
