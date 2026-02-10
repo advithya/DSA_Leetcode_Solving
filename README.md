@@ -102,6 +102,7 @@ Let’s connect, share, and grow together 💪
 | [0048-rotate-image](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0067-add-binary) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -141,6 +142,7 @@ Let’s connect, share, and grow together 💪
 | [0088-merge-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0283-move-zeroes) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
 | ------- |
