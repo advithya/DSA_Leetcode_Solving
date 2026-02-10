@@ -157,6 +157,7 @@ Let’s connect, share, and grow together 💪
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0069-sqrtx) |
+| [0278-first-bad-version](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -207,4 +208,8 @@ Let’s connect, share, and grow together 💪
 | ------- |
 | [0048-rotate-image](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0048-rotate-image) |
 | [1672-richest-customer-wealth](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1672-richest-customer-wealth) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
