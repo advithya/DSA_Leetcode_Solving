@@ -144,6 +144,7 @@ Let’s connect, share, and grow together 💪
 | [0217-contains-duplicate](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0283-move-zeroes) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1672-richest-customer-wealth](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1672-richest-customer-wealth) |
 ## Binary Search
 |  |
 | ------- |
@@ -195,4 +196,5 @@ Let’s connect, share, and grow together 💪
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0048-rotate-image) |
+| [1672-richest-customer-wealth](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
