@@ -136,6 +136,7 @@ Let’s connect, share, and grow together 💪
 | [0015-3sum](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0027-remove-element) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0066-plus-one) |
@@ -151,6 +152,7 @@ Let’s connect, share, and grow together 💪
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0004-median-of-two-sorted-arrays) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0035-search-insert-position) |
 | [0704-binary-search](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0704-binary-search) |
 ## Divide and Conquer
