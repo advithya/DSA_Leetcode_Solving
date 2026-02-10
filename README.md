@@ -102,6 +102,7 @@ Let’s connect, share, and grow together 💪
 | [0048-rotate-image](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0067-add-binary) |
+| [0069-sqrtx](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0069-sqrtx) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Recursion
 |  |
@@ -154,6 +155,7 @@ Let’s connect, share, and grow together 💪
 | [0004-median-of-two-sorted-arrays](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0069-sqrtx) |
 | [0704-binary-search](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0704-binary-search) |
 ## Divide and Conquer
 |  |
