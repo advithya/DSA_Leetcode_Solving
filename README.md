@@ -146,6 +146,7 @@ Let’s connect, share, and grow together 💪
 | [0136-single-number](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1470-shuffle-the-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1470-shuffle-the-array) |
