@@ -117,6 +117,7 @@ Let’s connect, share, and grow together 💪
 | [0003-longest-substring-without-repeating-characters](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -148,6 +149,7 @@ Let’s connect, share, and grow together 💪
 | [0136-single-number](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0136-single-number) |
 | [0217-contains-duplicate](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0485-max-consecutive-ones](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0485-max-consecutive-ones) |
 | [0704-binary-search](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0704-binary-search) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -162,6 +164,7 @@ Let’s connect, share, and grow together 💪
 | [0035-search-insert-position](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0069-sqrtx) |
 | [0278-first-bad-version](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0278-first-bad-version) |
+| [0349-intersection-of-two-arrays](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0367-valid-perfect-square) |
 | [0704-binary-search](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0704-binary-search) |
 ## Divide and Conquer
@@ -178,6 +181,7 @@ Let’s connect, share, and grow together 💪
 | [0027-remove-element](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0349-intersection-of-two-arrays) |
 ## Greedy
 |  |
 | ------- |
@@ -197,6 +201,7 @@ Let’s connect, share, and grow together 💪
 | [0088-merge-sorted-array](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0242-valid-anagram) |
+| [0349-intersection-of-two-arrays](https://github.com/advithya/DSA_Leetcode_Solving/tree/master/0349-intersection-of-two-arrays) |
 ## Bit Manipulation
 |  |
 | ------- |
